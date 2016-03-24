@@ -1,6 +1,6 @@
 {
   "name": "Human Gesture Recognition with MS Kinect",
   "tagline": "Human body gesture recognition with Kinect using SSS features",
-  "body": "Implemented the gesture recognition with Kinect using SSS features algorithm explained in \r\nthe paper: http://cs.adelaide.edu.au/~qsheng/papers/p23-zhao.pdf\r\n \r\nA sample video showing result of the trained gesture recognition can be found at: \r\nhttps://www.dropbox.com/s/jf4zfwk3o26geyv/handsup_duck_wave_3each_100lambda_5nclust.mp4?dl=0 ",
+  "body": "Implemented the gesture recognition with Kinect using SSS features algorithm explained in \r\nthe paper: http://cs.adelaide.edu.au/~qsheng/papers/p23-zhao.pdf\r\n \r\nA sample video showing result of the trained gesture recognition can be found at: \r\nhttps://www.dropbox.com/s/jf4zfwk3o26geyv/handsup_duck_wave_3each_100lambda_5nclust.mp4?dl=0 \r\n[Sample Video]( humanGestureRecognitionWithMSKinect/handsup_duck_wave_3each_100lambda_5nclust.mp4 )",
   "note": "Don't delete this file! It's used internally to help with page regeneration."
 }
